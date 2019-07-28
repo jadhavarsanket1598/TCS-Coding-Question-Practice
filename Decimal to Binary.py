@@ -1,5 +1,4 @@
 # Function calculates the decimal equivalent
-# to given binary number
 
 def binaryToDecimal(binary):
     binary1 = binary
